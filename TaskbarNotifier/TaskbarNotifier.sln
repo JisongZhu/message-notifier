@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskbarNotifier", "TaskbarNotifier\TaskbarNotifier.csproj", "{7BC1AFD3-E86A-4184-95A1-1E31BFA8CDA2}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{C7D77978-AB47-4A21-923A-68797BF26B7D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MessageNotifier", "MessageNotifier\MessageNotifier.vdproj", "{5D04A268-1A9B-4661-9C85-EF1B0F2263F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BC1AFD3-E86A-4184-95A1-1E31BFA8CDA2}.Debug|x86.ActiveCfg = Debug|x86
+		{7BC1AFD3-E86A-4184-95A1-1E31BFA8CDA2}.Debug|x86.Build.0 = Debug|x86
+		{7BC1AFD3-E86A-4184-95A1-1E31BFA8CDA2}.Release|x86.ActiveCfg = Release|x86
+		{7BC1AFD3-E86A-4184-95A1-1E31BFA8CDA2}.Release|x86.Build.0 = Release|x86
+		{C7D77978-AB47-4A21-923A-68797BF26B7D}.Debug|x86.ActiveCfg = Debug
+		{C7D77978-AB47-4A21-923A-68797BF26B7D}.Release|x86.ActiveCfg = Release
+		{5D04A268-1A9B-4661-9C85-EF1B0F2263F5}.Debug|x86.ActiveCfg = Debug
+		{5D04A268-1A9B-4661-9C85-EF1B0F2263F5}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
